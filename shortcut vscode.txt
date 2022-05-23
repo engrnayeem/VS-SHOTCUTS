@@ -1,0 +1,6 @@
+ctrl+/=comment in vs code
+shift+alt+a=empty comment
+shift+alt+arrow key for duplicate a line in vs code
+ctrl+u= view source code of web page
+
+my youtube channel-->https://www.youtube.com/channel/UCrkwlGTQHWQf532uE4zcchg/featured
